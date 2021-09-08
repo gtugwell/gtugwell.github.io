@@ -11686,3 +11686,8 @@ body {
   padding: 5rem 0;
 }
 
+#headshot {
+  max-width: 99%;
+  border-radius: 50%;
+}
+
